@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "15-08-2023 10:45:49"
+        "download_time": "15-08-2023 11:40:48"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -8749,15 +8749,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "52e5e33e-71f4-4a35-ba92-aede24fd0822",
-        "InterviewEndDate": "2023-08-11 09:34:31",
-        "InterviewState": "Completed",
-        "Flight": "FR 8054",
-        "Dest": "CFU",
-        "AirlineCode": "FR",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "9fa5a8b5-0814-4f0d-96cf-a3159a73ba6b",
         "InterviewEndDate": "2023-08-11 09:33:55",
         "InterviewState": "Completed",
@@ -8999,6 +8990,15 @@ let interview_data_raw = `[
         "Dest": "TLV",
         "AirlineCode": "W6",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "421f9c1d-a2e8-41d3-bd6f-1bd62649e549",
+        "InterviewEndDate": "2023-08-15 12:11:46",
+        "InterviewState": "Completed",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM",
+        "InterviewerID": 9
     },
     {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
@@ -13357,6 +13357,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "52e5e33e-71f4-4a35-ba92-aede24fd0822",
+        "InterviewEndDate": "2023-08-11 09:34:31",
+        "InterviewState": "Completed",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "85e1b9c4-7464-4a7d-913e-cd22e680fba0",
         "InterviewEndDate": "2023-08-11 09:35:07",
         "InterviewState": "Completed",
@@ -13481,6 +13490,15 @@ let interview_data_raw = `[
         "Dest": "TLV",
         "AirlineCode": "W6",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "6e5a2563-6b94-4a80-bbae-dd1e6dfbbd44",
+        "InterviewEndDate": "2023-08-15 12:19:02",
+        "InterviewState": "Completed",
+        "Flight": "FM  870",
+        "Dest": "PVG",
+        "AirlineCode": "FM",
+        "InterviewerID": 9
     }
 ]    
 
