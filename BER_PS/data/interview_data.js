@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "Mailand (LIN)",
         "AirlineCode": "easyJet Europe",
         "InterviewerID": 10,
-        "download_time": "16-08-2023 20:44:01"
+        "download_time": "16-08-2023 21:39:06"
     },
     {
         "InterviewId": "d375e29f-9154-46b5-912e-1142a35aeacf",
@@ -104938,6 +104938,15 @@ let interview_data_raw = `[
         "Flight": "LH  201",
         "Dest": "Frankfurt (FRA)",
         "AirlineCode": "Lufthansa",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "35cb4b54-2fd2-46d9-a432-f7f575c42798",
+        "InterviewEndDate": "2023-08-16 22:36:07",
+        "InterviewState": "Completed",
+        "Flight": "OS  238",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
         "InterviewerID": 12
     }
 ]    
