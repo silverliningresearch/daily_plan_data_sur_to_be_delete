@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "17-08-2023 11:20:55"
+        "download_time": "17-08-2023 12:15:49"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -5320,15 +5320,6 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
-        "InterviewId": "fce1b3ec-42de-4425-8a3f-ac52b071a525",
-        "InterviewEndDate": "2023-06-18 11:37:51",
-        "InterviewState": "Completed",
-        "Flight": "W6 2277",
-        "Dest": "CHQ",
-        "AirlineCode": "W6",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "0130c87e-a78a-4e93-852c-00989bf4421f",
         "InterviewEndDate": "2023-06-18 11:53:30",
         "InterviewState": "Completed",
@@ -9001,6 +8992,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "f1a2cfc1-cd09-4504-b23d-14e7f5014ae6",
+        "InterviewEndDate": "2023-08-17 13:13:48",
+        "InterviewState": "Completed",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
         "InterviewEndDate": "2023-04-07 13:38:30",
         "InterviewState": "Completed",
@@ -11899,6 +11899,15 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "fce1b3ec-42de-4425-8a3f-ac52b071a525",
+        "InterviewEndDate": "2023-06-18 11:37:51",
+        "InterviewState": "Completed",
+        "Flight": "W6 2277",
+        "Dest": "CHQ",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "bc2aa74b-6f86-4b44-88fb-cc6a65fc441d",
         "InterviewEndDate": "2023-06-18 13:09:57",
         "InterviewState": "Completed",
@@ -13741,6 +13750,24 @@ let interview_data_raw = `[
         "Flight": "RO  232",
         "Dest": "OTP",
         "AirlineCode": "RO",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "ac6f4b60-3a77-4007-9497-e2aa1101b9ad",
+        "InterviewEndDate": "2023-08-17 13:13:01",
+        "InterviewState": "Completed",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "c093a004-5778-4362-b0d7-d193cb505bee",
+        "InterviewEndDate": "2023-08-17 13:14:37",
+        "InterviewState": "Completed",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT",
         "InterviewerID": 7
     }
 ]    
