@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "19-08-2023 07:20:52"
+        "download_time": "19-08-2023 08:15:46"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -8929,15 +8929,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "bd91096c-b2c6-4e3a-a813-ab8ed2b1eba5",
-        "InterviewEndDate": "2023-08-17 09:28:21",
-        "InterviewState": "Completed",
-        "Flight": "RO  232",
-        "Dest": "OTP",
-        "AirlineCode": "RO",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "0de0c575-69f0-40e5-ba73-0fa60289ff41",
         "InterviewEndDate": "2023-08-17 09:27:33",
         "InterviewState": "Completed",
@@ -8997,6 +8988,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 4275",
         "Dest": "MRS",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "41020783-8ceb-4de6-a883-0a6318a2dc81",
+        "InterviewEndDate": "2023-08-19 08:31:37",
+        "InterviewState": "Completed",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
         "AirlineCode": "FR",
         "InterviewerID": 7
     },
@@ -13789,6 +13789,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "bd91096c-b2c6-4e3a-a813-ab8ed2b1eba5",
+        "InterviewEndDate": "2023-08-17 09:28:21",
+        "InterviewState": "Completed",
+        "Flight": "RO  232",
+        "Dest": "OTP",
+        "AirlineCode": "RO",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "ac6f4b60-3a77-4007-9497-e2aa1101b9ad",
         "InterviewEndDate": "2023-08-17 13:13:01",
         "InterviewState": "Completed",
@@ -13813,6 +13822,15 @@ let interview_data_raw = `[
         "Flight": "W6 2353",
         "Dest": "CTA",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "ecca6982-3aa0-4b46-9510-b9d0567cc831",
+        "InterviewEndDate": "2023-08-19 08:30:30",
+        "InterviewState": "Completed",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
+        "AirlineCode": "FR",
         "InterviewerID": 7
     }
 ]    
