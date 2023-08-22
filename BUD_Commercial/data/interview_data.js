@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "22-08-2023 09:35:51"
+        "download_time": "22-08-2023 10:30:50"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -8254,15 +8254,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "090c6af2-e9f0-4aa0-9a1b-a5ddc445641f",
-        "InterviewEndDate": "2023-08-09 14:37:28",
-        "InterviewState": "Completed",
-        "Flight": "BA  869",
-        "Dest": "LHR",
-        "AirlineCode": "BA",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "dc426931-9fba-44c5-917c-99bef4ddeeb4",
         "InterviewEndDate": "2023-08-09 16:23:27",
         "InterviewState": "Completed",
@@ -8997,6 +8988,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "W6 2371",
         "Dest": "MAD",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "96e39c41-7820-461d-b8c4-5a2261567929",
+        "InterviewEndDate": "2023-08-22 10:51:36",
+        "InterviewState": "Completed",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
         "AirlineCode": "W6",
         "InterviewerID": 7
     },
@@ -13609,6 +13609,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "090c6af2-e9f0-4aa0-9a1b-a5ddc445641f",
+        "InterviewEndDate": "2023-08-09 14:37:28",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "174bbb3c-3872-4fce-8c77-e4359591d596",
         "InterviewEndDate": "2023-08-09 16:25:31",
         "InterviewState": "Completed",
@@ -14001,6 +14010,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "W6 2371",
         "Dest": "MAD",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "ccd482e4-dd54-4aec-8ab1-e669e8e6a69e",
+        "InterviewEndDate": "2023-08-22 10:45:12",
+        "InterviewState": "Completed",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
         "AirlineCode": "W6",
         "InterviewerID": 7
     }
