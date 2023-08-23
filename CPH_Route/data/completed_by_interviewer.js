@@ -3,7 +3,7 @@ let completed_by_interviewer = `[
         "InterviewerID": 1,
         "Interview_Date": "2023-06-01",
         "completed_interviews": 25,
-        "download_time": "23-08-2023 14:59:43"
+        "download_time": "23-08-2023 15:54:50"
     },
     {
         "InterviewerID": 1,
@@ -186,6 +186,11 @@ let completed_by_interviewer = `[
         "completed_interviews": 2
     },
     {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-08-23",
+        "completed_interviews": 1
+    },
+    {
         "InterviewerID": 2,
         "Interview_Date": "2023-06-01",
         "completed_interviews": 25
@@ -353,7 +358,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 2,
         "Interview_Date": "2023-07-31",
-        "completed_interviews": 46
+        "completed_interviews": 47
     },
     {
         "InterviewerID": 2,
@@ -418,7 +423,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 2,
         "Interview_Date": "2023-08-23",
-        "completed_interviews": 14
+        "completed_interviews": 25
     },
     {
         "InterviewerID": 3,
@@ -593,7 +598,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 3,
         "Interview_Date": "2023-08-23",
-        "completed_interviews": 14
+        "completed_interviews": 24
     },
     {
         "InterviewerID": 4,
@@ -668,6 +673,11 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 4,
         "Interview_Date": "2023-08-16",
+        "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 4,
+        "Interview_Date": "2023-08-23",
         "completed_interviews": 1
     },
     {
@@ -923,7 +933,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 6,
         "Interview_Date": "2023-08-23",
-        "completed_interviews": 57
+        "completed_interviews": 68
     },
     {
         "InterviewerID": 7,
@@ -1008,7 +1018,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 7,
         "Interview_Date": "2023-08-23",
-        "completed_interviews": 108
+        "completed_interviews": 112
     },
     {
         "InterviewerID": 999,
