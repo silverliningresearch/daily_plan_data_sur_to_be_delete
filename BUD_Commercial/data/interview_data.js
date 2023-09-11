@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "11-09-2023 09:00:49"
+        "download_time": "11-09-2023 09:55:47"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -8938,15 +8938,6 @@ let interview_data_raw = `[
         "InterviewerID": 15
     },
     {
-        "InterviewId": "31b50736-db3d-4cbc-959e-a069966366bd",
-        "InterviewEndDate": "2023-09-11 09:22:06",
-        "InterviewState": "Completed",
-        "Flight": "EW 9785",
-        "Dest": "DUS",
-        "AirlineCode": "EW",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "48af32a5-982a-4591-a501-554c1b510a46",
         "InterviewEndDate": "2023-09-11 09:20:24",
         "InterviewState": "Completed",
@@ -8981,6 +8972,15 @@ let interview_data_raw = `[
         "Dest": "WAW",
         "AirlineCode": "LO",
         "InterviewerID": 15
+    },
+    {
+        "InterviewId": "37d2de51-4e83-4b13-b099-308cca9f1bdb",
+        "InterviewEndDate": "2023-09-11 10:11:04",
+        "InterviewState": "Completed",
+        "Flight": "LO  534",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
+        "InterviewerID": 7
     },
     {
         "InterviewId": "c0fa5033-16db-4d74-b773-795fe59cdf5c",
@@ -14644,6 +14644,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "31b50736-db3d-4cbc-959e-a069966366bd",
+        "InterviewEndDate": "2023-09-11 09:22:06",
+        "InterviewState": "Completed",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "5da91f4f-084f-4803-82d4-f7fdfe00e99e",
         "InterviewEndDate": "2023-09-11 09:28:02",
         "InterviewState": "Completed",
@@ -14660,6 +14669,42 @@ let interview_data_raw = `[
         "Dest": "WAW",
         "AirlineCode": "LO",
         "InterviewerID": 15
+    },
+    {
+        "InterviewId": "17796c05-7be6-4c5d-a0cc-ae2ad7796a67",
+        "InterviewEndDate": "2023-09-11 10:08:34",
+        "InterviewState": "Completed",
+        "Flight": "LO  534",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
+        "InterviewerID": 15
+    },
+    {
+        "InterviewId": "935ec852-af3a-4fbf-8bd2-ee06a4cc5f77",
+        "InterviewEndDate": "2023-09-11 10:40:22",
+        "InterviewState": "Completed",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "2d644b15-8fde-4979-ad32-df59212a6375",
+        "InterviewEndDate": "2023-09-11 10:44:32",
+        "InterviewState": "Completed",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "de77aa99-7847-4508-b0fa-ea6aab680245",
+        "InterviewEndDate": "2023-09-11 10:49:05",
+        "InterviewState": "Completed",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
     }
 ]    
 
