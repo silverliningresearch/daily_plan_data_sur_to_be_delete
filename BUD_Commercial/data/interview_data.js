@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "19-09-2023 12:16:18"
+        "download_time": "19-09-2023 13:10:48"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -565,24 +565,6 @@ let interview_data_raw = `[
         "Flight": "EW 7783",
         "Dest": "HAM",
         "AirlineCode": "EW",
-        "InterviewerID": 1
-    },
-    {
-        "InterviewId": "9cfe898b-3f2e-40a4-afd3-94a5b467917d",
-        "InterviewEndDate": "2023-04-18 13:36:12",
-        "InterviewState": "Completed",
-        "Flight": "DY 1551",
-        "Dest": "OSL",
-        "AirlineCode": "DY",
-        "InterviewerID": 1
-    },
-    {
-        "InterviewId": "b1d15148-27ae-4cde-b4dd-948c6a9bbecc",
-        "InterviewEndDate": "2023-04-18 13:31:06",
-        "InterviewState": "Completed",
-        "Flight": "DY 1551",
-        "Dest": "OSL",
-        "AirlineCode": "DY",
         "InterviewerID": 1
     },
     {
@@ -8992,6 +8974,24 @@ let interview_data_raw = `[
         "InterviewerID": 15
     },
     {
+        "InterviewId": "b1dedf9e-ef17-4594-8475-4fe7a4fa50b6",
+        "InterviewEndDate": "2023-09-19 13:56:12",
+        "InterviewState": "Completed",
+        "Flight": "W6 2403",
+        "Dest": "NYO",
+        "AirlineCode": "W6",
+        "InterviewerID": 15
+    },
+    {
+        "InterviewId": "7ea7f78d-be97-458f-a2c1-3bcc0ee72fd9",
+        "InterviewEndDate": "2023-09-19 13:57:54",
+        "InterviewState": "Completed",
+        "Flight": "W6 2403",
+        "Dest": "NYO",
+        "AirlineCode": "W6",
+        "InterviewerID": 15
+    },
+    {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
         "InterviewEndDate": "2023-04-07 13:38:30",
         "InterviewState": "Completed",
@@ -9412,6 +9412,24 @@ let interview_data_raw = `[
         "Flight": "EW 7783",
         "Dest": "HAM",
         "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9cfe898b-3f2e-40a4-afd3-94a5b467917d",
+        "InterviewEndDate": "2023-04-18 13:36:12",
+        "InterviewState": "Completed",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b1d15148-27ae-4cde-b4dd-948c6a9bbecc",
+        "InterviewEndDate": "2023-04-18 13:31:06",
+        "InterviewState": "Completed",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY",
         "InterviewerID": 1
     },
     {
