@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "24-09-2023 10:30:52"
+        "download_time": "24-09-2023 10:53:13"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -42,7 +42,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -177,7 +177,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -186,7 +186,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -195,7 +195,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -213,7 +213,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EZY8732",
+        "AirlineCode": "EC",
         "InterviewerID": 7
     },
     {
@@ -249,7 +249,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EZY8732",
+        "AirlineCode": "EC",
         "InterviewerID": 7
     },
     {
@@ -258,7 +258,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EZY8732",
+        "AirlineCode": "EC",
         "InterviewerID": 7
     },
     {
@@ -267,7 +267,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EZY8732",
+        "AirlineCode": "EC",
         "InterviewerID": 7
     },
     {
@@ -2832,7 +2832,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 7
     },
     {
@@ -2841,7 +2841,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 7
     },
     {
@@ -2850,7 +2850,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 7
     },
     {
@@ -2859,7 +2859,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 7
     },
     {
@@ -3021,7 +3021,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EZY8732",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -3030,7 +3030,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EZY8732",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -3165,7 +3165,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 4488",
         "Dest": "ARN",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 1
     },
     {
@@ -3174,7 +3174,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 4488",
         "Dest": "ARN",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 1
     },
     {
@@ -5298,7 +5298,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1566",
         "Dest": "GVA",
-        "AirlineCode": "EZS1566",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -5307,7 +5307,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1566",
         "Dest": "GVA",
-        "AirlineCode": "EZS1566",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -5316,7 +5316,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1566",
         "Dest": "GVA",
-        "AirlineCode": "EZS1566",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -5325,7 +5325,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1566",
         "Dest": "GVA",
-        "AirlineCode": "EZS1566",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -5334,7 +5334,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1566",
         "Dest": "GVA",
-        "AirlineCode": "EZS1566",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -5667,7 +5667,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EZY8732",
+        "AirlineCode": "EC",
         "InterviewerID": 7
     },
     {
@@ -5676,7 +5676,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EZY8732",
+        "AirlineCode": "EC",
         "InterviewerID": 7
     },
     {
@@ -5685,7 +5685,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 1
     },
     {
@@ -5694,7 +5694,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 1
     },
     {
@@ -5703,7 +5703,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 1
     },
     {
@@ -5712,7 +5712,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 1
     },
     {
@@ -8862,7 +8862,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 9
     },
     {
@@ -8871,7 +8871,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 9
     },
     {
@@ -8880,7 +8880,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 9
     },
     {
@@ -8889,7 +8889,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 9
     },
     {
@@ -8898,7 +8898,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 9
     },
     {
@@ -8907,7 +8907,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 9
     },
     {
@@ -9123,7 +9123,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -9132,7 +9132,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -9141,7 +9141,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -9699,7 +9699,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1566",
         "Dest": "GVA",
-        "AirlineCode": "EZS1566",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -9717,7 +9717,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1566",
         "Dest": "GVA",
-        "AirlineCode": "EZS1566",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -9726,7 +9726,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1566",
         "Dest": "GVA",
-        "AirlineCode": "EZS1566",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -11139,7 +11139,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 7
     },
     {
@@ -11148,7 +11148,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 7
     },
     {
@@ -11157,7 +11157,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 7
     },
     {
@@ -11292,7 +11292,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EZY8732",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -11391,7 +11391,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -11400,7 +11400,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -12903,7 +12903,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1566",
         "Dest": "GVA",
-        "AirlineCode": "EZS1566",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -12912,7 +12912,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1566",
         "Dest": "GVA",
-        "AirlineCode": "EZS1566",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -13398,7 +13398,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 4488",
         "Dest": "ARN",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 1
     },
     {
@@ -13578,7 +13578,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZY8732",
         "Dest": "LGW",
-        "AirlineCode": "EZY8732",
+        "AirlineCode": "EC",
         "InterviewerID": 7
     },
     {
@@ -14172,7 +14172,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 7
     },
     {
@@ -14181,7 +14181,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 7
     },
     {
@@ -14190,7 +14190,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EZS1218",
         "Dest": "BSL",
-        "AirlineCode": "EZS1218",
+        "AirlineCode": "EC",
         "InterviewerID": 7
     },
     {
@@ -16179,7 +16179,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8",
+        "AirlineCode": "DY",
         "InterviewerID": 9
     },
     {
