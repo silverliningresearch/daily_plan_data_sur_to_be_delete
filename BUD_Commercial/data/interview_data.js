@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "29-09-2023 06:00:55"
+        "download_time": "29-09-2023 06:55:51"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -4681,15 +4681,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "6aa2c260-763b-47eb-ba24-877a1b512a91",
-        "InterviewEndDate": "2023-06-27 12:06:41",
-        "InterviewState": "Completed",
-        "Flight": "BA  867",
-        "Dest": "LHR",
-        "AirlineCode": "BA",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "1534e9c2-b352-4a30-af17-4f55af567986",
         "InterviewEndDate": "2023-06-27 12:07:38",
         "InterviewState": "Completed",
@@ -8989,6 +8980,15 @@ let interview_data_raw = `[
         "Flight": "W6 2467",
         "Dest": "WAW",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "37a587bc-8572-442e-a236-64db729e21ab",
+        "InterviewEndDate": "2023-09-29 07:07:03",
+        "InterviewState": "Completed",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR",
         "InterviewerID": 7
     },
     {
@@ -13321,6 +13321,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "6aa2c260-763b-47eb-ba24-877a1b512a91",
+        "InterviewEndDate": "2023-06-27 12:06:41",
+        "InterviewState": "Completed",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "2887296b-42aa-465e-8191-fb714d5ec615",
         "InterviewEndDate": "2023-06-27 12:07:53",
         "InterviewState": "Completed",
@@ -17053,6 +17062,15 @@ let interview_data_raw = `[
         "Flight": "W6 2467",
         "Dest": "WAW",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "9c6c72a5-a300-4d54-9212-e0a5b60ea977",
+        "InterviewEndDate": "2023-09-29 07:08:05",
+        "InterviewState": "Completed",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR",
         "InterviewerID": 7
     }
 ]    
