@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "30-09-2023 19:35:54"
+        "download_time": "30-09-2023 20:30:50"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -6544,15 +6544,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "cb787c9d-79f8-4ef5-a0a9-83f96b927eb8",
-        "InterviewEndDate": "2023-08-04 18:04:00",
-        "InterviewState": "Completed",
-        "Flight": "FR 8393",
-        "Dest": "BCN",
-        "AirlineCode": "FR",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "a3fbeb7e-52b7-468d-8f14-047f8f318375",
         "InterviewEndDate": "2023-08-07 10:48:26",
         "InterviewState": "Completed",
@@ -8990,6 +8981,24 @@ let interview_data_raw = `[
         "Dest": "MXP",
         "AirlineCode": "W6",
         "InterviewerID": 9
+    },
+    {
+        "InterviewId": "bc933c53-18f8-4202-85d9-83e3fa75624c",
+        "InterviewEndDate": "2023-09-30 21:00:18",
+        "InterviewState": "Completed",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EC",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "e3900194-1c5c-4888-840a-b4e9f8d28f69",
+        "InterviewEndDate": "2023-09-30 21:02:21",
+        "InterviewState": "Completed",
+        "Flight": "CA  436",
+        "Dest": "SKG",
+        "AirlineCode": "CA",
+        "InterviewerID": 15
     },
     {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
@@ -15127,6 +15136,15 @@ let interview_data_raw = `[
         "Flight": "KL 1978",
         "Dest": "AMS",
         "AirlineCode": "KL",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "cb787c9d-79f8-4ef5-a0a9-83f96b927eb8",
+        "InterviewEndDate": "2023-08-04 18:04:00",
+        "InterviewState": "Completed",
+        "Flight": "FR 8393",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
         "InterviewerID": 7
     },
     {
