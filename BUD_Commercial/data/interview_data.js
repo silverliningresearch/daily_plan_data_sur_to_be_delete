@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "01-10-2023 09:20:54"
+        "download_time": "01-10-2023 10:15:51"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -5545,15 +5545,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "c55e2f46-619f-4421-9acb-83f69bca98ec",
-        "InterviewEndDate": "2023-07-16 14:59:07",
-        "InterviewState": "Completed",
-        "Flight": "TK 7747",
-        "Dest": "SAW",
-        "AirlineCode": "TK",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "f0a365e8-a73a-4674-b3a8-4bcd2f1381f5",
         "InterviewEndDate": "2023-07-16 15:28:55",
         "InterviewState": "Completed",
@@ -8990,6 +8981,15 @@ let interview_data_raw = `[
         "Dest": "LGW",
         "AirlineCode": "EC",
         "InterviewerID": 16
+    },
+    {
+        "InterviewId": "ed70ee47-41de-4024-a3e1-6f3ff2eb2098",
+        "InterviewEndDate": "2023-10-01 10:26:35",
+        "InterviewState": "Completed",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY",
+        "InterviewerID": 7
     },
     {
         "InterviewId": "e3900194-1c5c-4888-840a-b4e9f8d28f69",
@@ -14230,6 +14230,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "c55e2f46-619f-4421-9acb-83f69bca98ec",
+        "InterviewEndDate": "2023-07-16 14:59:07",
+        "InterviewState": "Completed",
+        "Flight": "TK 7747",
+        "Dest": "SAW",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "e8a4c6c0-907d-43ac-8902-88be70127f2a",
         "InterviewEndDate": "2023-07-16 16:30:58",
         "InterviewState": "Completed",
@@ -17409,6 +17418,24 @@ let interview_data_raw = `[
     {
         "InterviewId": "a905f5a5-b967-47b7-9bd2-8a398ab6df4c",
         "InterviewEndDate": "2023-10-01 10:20:13",
+        "InterviewState": "Completed",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "9418a7bb-367a-4e0b-ad3b-cff82d7c1d61",
+        "InterviewEndDate": "2023-10-01 10:28:24",
+        "InterviewState": "Completed",
+        "Flight": "LY 2366",
+        "Dest": "TLV",
+        "AirlineCode": "LY",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "880b764e-9a95-428c-a59c-a238a41dfb37",
+        "InterviewEndDate": "2023-10-01 10:23:05",
         "InterviewState": "Completed",
         "Flight": "LY 2366",
         "Dest": "TLV",
