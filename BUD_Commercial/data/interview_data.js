@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "05-10-2023 15:05:57"
+        "download_time": "05-10-2023 16:00:58"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -2676,15 +2676,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "5e9e1afd-207b-418a-8450-3fe62d2edd05",
         "InterviewEndDate": "2023-05-26 07:37:13",
-        "InterviewState": "Completed",
-        "Flight": "W6 2291",
-        "Dest": "DTM",
-        "AirlineCode": "W6",
-        "InterviewerID": 7
-    },
-    {
-        "InterviewId": "d751d89c-0b9b-4419-abea-82e768b80a05",
-        "InterviewEndDate": "2023-05-26 07:48:59",
         "InterviewState": "Completed",
         "Flight": "W6 2291",
         "Dest": "DTM",
@@ -7021,15 +7012,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "6141295c-2f68-4238-be71-82d529c2e962",
-        "InterviewEndDate": "2023-08-19 06:30:28",
-        "InterviewState": "Completed",
-        "Flight": "W6 2353",
-        "Dest": "CTA",
-        "AirlineCode": "W6",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "99b64897-d090-4d93-96c1-0983c3d0b4bc",
         "InterviewEndDate": "2023-08-19 06:25:55",
         "InterviewState": "Completed",
@@ -8989,6 +8971,24 @@ let interview_data_raw = `[
         "Flight": "EZY8734",
         "Dest": "LGW",
         "AirlineCode": "EC",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "d6700b17-38bf-4d4d-8bcd-66a98910a283",
+        "InterviewEndDate": "2023-10-05 16:06:35",
+        "InterviewState": "Completed",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "03f06f88-56cc-4c4f-93ac-6e7a293d56a8",
+        "InterviewEndDate": "2023-10-05 17:00:36",
+        "InterviewState": "Completed",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
+        "AirlineCode": "FR",
         "InterviewerID": 7
     },
     {
@@ -11559,6 +11559,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "51be0fb6-f0a0-4f99-b6ec-e37f64c04223",
         "InterviewEndDate": "2023-05-26 07:39:19",
+        "InterviewState": "Completed",
+        "Flight": "W6 2291",
+        "Dest": "DTM",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "d751d89c-0b9b-4419-abea-82e768b80a05",
+        "InterviewEndDate": "2023-05-26 07:48:59",
         "InterviewState": "Completed",
         "Flight": "W6 2291",
         "Dest": "DTM",
@@ -15769,6 +15778,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "6141295c-2f68-4238-be71-82d529c2e962",
+        "InterviewEndDate": "2023-08-19 06:30:28",
+        "InterviewState": "Completed",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "2cfc881c-5be2-4db0-bcba-d8c86ce69f07",
         "InterviewEndDate": "2023-08-19 06:23:47",
         "InterviewState": "Completed",
@@ -17620,6 +17638,33 @@ let interview_data_raw = `[
         "Flight": "TK 7747",
         "Dest": "SAW",
         "AirlineCode": "TK",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "1b473c9d-51be-4f07-8434-f886ebaf63e0",
+        "InterviewEndDate": "2023-10-05 16:12:12",
+        "InterviewState": "Completed",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "cc885467-98a5-43d1-aa6c-d152f8c2f19a",
+        "InterviewEndDate": "2023-10-05 16:09:40",
+        "InterviewState": "Completed",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "82174d35-4ef9-429b-a84a-bc66962e1b7a",
+        "InterviewEndDate": "2023-10-05 16:58:16",
+        "InterviewState": "Completed",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
+        "AirlineCode": "FR",
         "InterviewerID": 7
     }
 ]    
