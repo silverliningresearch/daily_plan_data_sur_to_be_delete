@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "06-10-2023 17:40:48"
+        "download_time": "06-10-2023 18:35:48"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -1682,15 +1682,6 @@ let interview_data_raw = `[
         "Dest": "ARN",
         "AirlineCode": "FR",
         "InterviewerID": 7
-    },
-    {
-        "InterviewId": "8a8a7527-27cb-40eb-b676-7f95cdbfffd4",
-        "InterviewEndDate": "2023-05-15 17:21:25",
-        "InterviewState": "Completed",
-        "Flight": "FR 2517",
-        "Dest": "STN",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
     },
     {
         "InterviewId": "29eef25f-5a1f-40c6-9e35-4ab33ed3148b",
@@ -8983,6 +8974,15 @@ let interview_data_raw = `[
         "InterviewerID": 15
     },
     {
+        "InterviewId": "5b42cbc4-372d-49b2-ad3e-30c3bc767851",
+        "InterviewEndDate": "2023-10-06 19:17:25",
+        "InterviewState": "Completed",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "InterviewerID": 15
+    },
+    {
         "InterviewId": "e3900194-1c5c-4888-840a-b4e9f8d28f69",
         "InterviewEndDate": "2023-09-30 21:02:21",
         "InterviewState": "Completed",
@@ -10853,6 +10853,15 @@ let interview_data_raw = `[
         "Dest": "ARN",
         "AirlineCode": "FR",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "8a8a7527-27cb-40eb-b676-7f95cdbfffd4",
+        "InterviewEndDate": "2023-05-15 17:21:25",
+        "InterviewState": "Completed",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
     },
     {
         "InterviewId": "001ff1d2-eb6c-4fbd-96a3-95b1b2ea29a5",
@@ -17962,6 +17971,15 @@ let interview_data_raw = `[
         "Flight": "EZS1566",
         "Dest": "GVA",
         "AirlineCode": "EC",
+        "InterviewerID": 15
+    },
+    {
+        "InterviewId": "d96d7bec-ba00-4415-b986-d49ced06db32",
+        "InterviewEndDate": "2023-10-06 19:08:00",
+        "InterviewState": "Completed",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
         "InterviewerID": 15
     }
 ]    
