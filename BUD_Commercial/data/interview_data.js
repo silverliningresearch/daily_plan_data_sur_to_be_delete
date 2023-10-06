@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "06-10-2023 06:40:47"
+        "download_time": "06-10-2023 07:35:53"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -8569,15 +8569,6 @@ let interview_data_raw = `[
         "InterviewerID": 15
     },
     {
-        "InterviewId": "99cf9b60-688b-4409-8076-817551f97570",
-        "InterviewEndDate": "2023-09-28 11:38:27",
-        "InterviewState": "Completed",
-        "Flight": "OS  714",
-        "Dest": "VIE",
-        "AirlineCode": "OS",
-        "InterviewerID": 16
-    },
-    {
         "InterviewId": "063eaddc-0001-4783-8e17-74bfbcc33a36",
         "InterviewEndDate": "2023-09-28 11:34:36",
         "InterviewState": "Completed",
@@ -8989,6 +8980,15 @@ let interview_data_raw = `[
         "Flight": "W6 2485",
         "Dest": "TGM",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "f16ac179-4f5a-4e64-a38f-4ebe393765c0",
+        "InterviewEndDate": "2023-10-06 08:09:24",
+        "InterviewState": "Completed",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU",
         "InterviewerID": 7
     },
     {
@@ -17371,6 +17371,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "99cf9b60-688b-4409-8076-817551f97570",
+        "InterviewEndDate": "2023-09-28 11:38:27",
+        "InterviewState": "Completed",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "88260d04-432e-4552-a617-9253ffe9ebaf",
         "InterviewEndDate": "2023-09-28 18:15:10",
         "InterviewState": "Completed",
@@ -17764,6 +17773,15 @@ let interview_data_raw = `[
         "Flight": "W6 2485",
         "Dest": "TGM",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "eeedc913-54b8-4f64-874f-c3e1fd9823b6",
+        "InterviewEndDate": "2023-10-06 08:05:35",
+        "InterviewState": "Completed",
+        "Flight": "JU  151",
+        "Dest": "BEG",
+        "AirlineCode": "JU",
         "InterviewerID": 7
     }
 ]    
