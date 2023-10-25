@@ -4,7 +4,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "ARN",
         "AirlineCode": "SK",
-        "download_time": "25-10-2023 18:13:16"
+        "download_time": "25-10-2023 19:08:28"
     },
     {
         "InterviewEndDate": "2023-06-01",
@@ -87481,12 +87481,6 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewEndDate": "2023-10-02",
-        "InterviewState": "Completed",
-        "Dest": "ZRH",
-        "AirlineCode": "LX"
-    },
-    {
         "InterviewEndDate": "2023-10-03",
         "InterviewState": "Completed",
         "Dest": "MUC",
@@ -89139,12 +89133,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-12",
         "InterviewState": "Completed",
-        "Dest": "ZRH",
-        "AirlineCode": "LX"
-    },
-    {
-        "InterviewEndDate": "2023-10-12",
-        "InterviewState": "Completed",
         "Dest": "MAD",
         "AirlineCode": "D8"
     },
@@ -89315,12 +89303,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "LHR",
         "AirlineCode": "SK"
-    },
-    {
-        "InterviewEndDate": "2023-10-12",
-        "InterviewState": "Completed",
-        "Dest": "CDG",
-        "AirlineCode": "D8"
     },
     {
         "InterviewEndDate": "2023-10-12",
@@ -90079,12 +90061,6 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewEndDate": "2023-10-13",
-        "InterviewState": "Completed",
-        "Dest": "BRU",
-        "AirlineCode": "SN"
-    },
-    {
         "InterviewEndDate": "2023-10-14",
         "InterviewState": "Completed",
         "Dest": "YYZ",
@@ -90597,12 +90573,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-15",
         "InterviewState": "Completed",
-        "Dest": "IST",
-        "AirlineCode": "TK"
-    },
-    {
-        "InterviewEndDate": "2023-10-15",
-        "InterviewState": "Completed",
         "Dest": "MAD",
         "AirlineCode": "IB"
     },
@@ -90629,12 +90599,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "MAD",
         "AirlineCode": "IB"
-    },
-    {
-        "InterviewEndDate": "2023-10-15",
-        "InterviewState": "Completed",
-        "Dest": "FRA",
-        "AirlineCode": "LH"
     },
     {
         "InterviewEndDate": "2023-10-15",
@@ -91325,12 +91289,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "DOH",
         "AirlineCode": "AY"
-    },
-    {
-        "InterviewEndDate": "2023-10-17",
-        "InterviewState": "Completed",
-        "Dest": "SFO",
-        "AirlineCode": "SK"
     },
     {
         "InterviewEndDate": "2023-10-17",
@@ -91895,18 +91853,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "LHR",
         "AirlineCode": "BA"
-    },
-    {
-        "InterviewEndDate": "2023-10-20",
-        "InterviewState": "Completed",
-        "Dest": "SAW",
-        "AirlineCode": "PC"
-    },
-    {
-        "InterviewEndDate": "2023-10-20",
-        "InterviewState": "Completed",
-        "Dest": "SAW",
-        "AirlineCode": "PC"
     },
     {
         "InterviewEndDate": "2023-10-20",
@@ -93073,6 +93019,60 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "I2"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "I2"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "ET"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "ET"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "I2"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "ET"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "I2"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "I2"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "I2"
+    },
+    {
         "InterviewEndDate": "2023-10-02",
         "InterviewState": "Completed",
         "Dest": "LHR",
@@ -93291,12 +93291,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-02",
         "InterviewState": "Completed",
-        "Dest": "DOH",
-        "AirlineCode": "AY"
-    },
-    {
-        "InterviewEndDate": "2023-10-02",
-        "InterviewState": "Completed",
         "Dest": "LHR",
         "AirlineCode": "BA"
     },
@@ -93401,6 +93395,12 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "FRA",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2023-10-02",
+        "InterviewState": "Completed",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
     },
     {
         "InterviewEndDate": "2023-10-02",
@@ -93767,12 +93767,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "STN",
         "AirlineCode": "FR"
-    },
-    {
-        "InterviewEndDate": "2023-10-04",
-        "InterviewState": "Completed",
-        "Dest": "YYZ",
-        "AirlineCode": "AC"
     },
     {
         "InterviewEndDate": "2023-10-04",
@@ -94337,12 +94331,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "OSL",
         "AirlineCode": "SK"
-    },
-    {
-        "InterviewEndDate": "2023-10-06",
-        "InterviewState": "Completed",
-        "Dest": "SAW",
-        "AirlineCode": "PC"
     },
     {
         "InterviewEndDate": "2023-10-06",
@@ -95285,6 +95273,12 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "ORD",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2023-10-12",
+        "InterviewState": "Completed",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
     },
     {
         "InterviewEndDate": "2023-10-12",
@@ -95409,6 +95403,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-12",
         "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2023-10-12",
+        "InterviewState": "Completed",
         "Dest": "ZRH",
         "AirlineCode": "LX"
     },
@@ -95675,12 +95675,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "SIN",
         "AirlineCode": "SQ"
-    },
-    {
-        "InterviewEndDate": "2023-10-13",
-        "InterviewState": "Completed",
-        "Dest": "YYZ",
-        "AirlineCode": "AC"
     },
     {
         "InterviewEndDate": "2023-10-13",
@@ -96157,6 +96151,12 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
+        "InterviewEndDate": "2023-10-13",
+        "InterviewState": "Completed",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
         "InterviewEndDate": "2023-10-14",
         "InterviewState": "Completed",
         "Dest": "CDG",
@@ -96639,6 +96639,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-15",
         "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewEndDate": "2023-10-15",
+        "InterviewState": "Completed",
         "Dest": "IST",
         "AirlineCode": "TK"
     },
@@ -96669,8 +96675,8 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-15",
         "InterviewState": "Completed",
-        "Dest": "MAD",
-        "AirlineCode": "IB"
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     },
     {
         "InterviewEndDate": "2023-10-15",
@@ -97011,12 +97017,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-16",
         "InterviewState": "Completed",
-        "Dest": "MAD",
-        "AirlineCode": "I2"
-    },
-    {
-        "InterviewEndDate": "2023-10-16",
-        "InterviewState": "Completed",
         "Dest": "OSL",
         "AirlineCode": "SK"
     },
@@ -97138,12 +97138,6 @@ let interview_data_raw = `[
         "InterviewEndDate": "2023-10-17",
         "InterviewState": "Completed",
         "Dest": "YYZ",
-        "AirlineCode": "SK"
-    },
-    {
-        "InterviewEndDate": "2023-10-17",
-        "InterviewState": "Completed",
-        "Dest": "EWR",
         "AirlineCode": "SK"
     },
     {
@@ -97217,12 +97211,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "IAD",
         "AirlineCode": "SK"
-    },
-    {
-        "InterviewEndDate": "2023-10-17",
-        "InterviewState": "Completed",
-        "Dest": "YYZ",
-        "AirlineCode": "AC"
     },
     {
         "InterviewEndDate": "2023-10-17",
@@ -97415,6 +97403,12 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "DOH",
         "AirlineCode": "AY"
+    },
+    {
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Completed",
+        "Dest": "SFO",
+        "AirlineCode": "SK"
     },
     {
         "InterviewEndDate": "2023-10-17",
@@ -97474,12 +97468,6 @@ let interview_data_raw = `[
         "InterviewEndDate": "2023-10-17",
         "InterviewState": "Completed",
         "Dest": "SFO",
-        "AirlineCode": "SK"
-    },
-    {
-        "InterviewEndDate": "2023-10-17",
-        "InterviewState": "Completed",
-        "Dest": "DUS",
         "AirlineCode": "SK"
     },
     {
@@ -97583,18 +97571,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "ZRH",
         "AirlineCode": "LX"
-    },
-    {
-        "InterviewEndDate": "2023-10-17",
-        "InterviewState": "Completed",
-        "Dest": "ZRH",
-        "AirlineCode": "LX"
-    },
-    {
-        "InterviewEndDate": "2023-10-17",
-        "InterviewState": "Completed",
-        "Dest": "BCN",
-        "AirlineCode": "D8"
     },
     {
         "InterviewEndDate": "2023-10-17",
@@ -97907,6 +97883,18 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Completed",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Completed",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
     },
     {
         "InterviewEndDate": "2023-10-20",
@@ -98351,12 +98339,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "BUD",
         "AirlineCode": "D8"
-    },
-    {
-        "InterviewEndDate": "2023-10-22",
-        "InterviewState": "Completed",
-        "Dest": "MRS",
-        "AirlineCode": "V7"
     },
     {
         "InterviewEndDate": "2023-10-22",
@@ -98635,12 +98617,6 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewEndDate": "2023-10-25",
-        "InterviewState": "Completed",
-        "Dest": "DOH",
-        "AirlineCode": "QR"
-    },
-    {
         "InterviewEndDate": "2023-10-23",
         "InterviewState": "Completed",
         "Dest": "BRU",
@@ -98691,12 +98667,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-25",
         "InterviewState": "Completed",
-        "Dest": "SIN",
-        "AirlineCode": "SQ"
-    },
-    {
-        "InterviewEndDate": "2023-10-25",
-        "InterviewState": "Completed",
         "Dest": "YYZ",
         "AirlineCode": "AC"
     },
@@ -98973,12 +98943,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-25",
         "InterviewState": "Completed",
-        "Dest": "AGP",
-        "AirlineCode": "SK"
-    },
-    {
-        "InterviewEndDate": "2023-10-25",
-        "InterviewState": "Completed",
         "Dest": "DOH",
         "AirlineCode": "AY"
     },
@@ -99045,6 +99009,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-25",
         "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "I2"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
         "Dest": "LHR",
         "AirlineCode": "SK"
     },
@@ -99065,6 +99035,36 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "LHR",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "I2"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "ET"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "ET"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "ET"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "I2"
     },
     {
         "InterviewEndDate": "2023-10-02",
@@ -99131,6 +99131,12 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "DXB",
         "AirlineCode": "EK"
+    },
+    {
+        "InterviewEndDate": "2023-10-02",
+        "InterviewState": "Completed",
+        "Dest": "DOH",
+        "AirlineCode": "AY"
     },
     {
         "InterviewEndDate": "2023-10-02",
@@ -99269,6 +99275,12 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "SIN",
         "AirlineCode": "SQ"
+    },
+    {
+        "InterviewEndDate": "2023-10-04",
+        "InterviewState": "Completed",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
     },
     {
         "InterviewEndDate": "2023-10-04",
@@ -99479,6 +99491,12 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "ARN",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2023-10-06",
+        "InterviewState": "Completed",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
     },
     {
         "InterviewEndDate": "2023-10-07",
@@ -99897,6 +99915,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-13",
         "InterviewState": "Completed",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewEndDate": "2023-10-13",
+        "InterviewState": "Completed",
         "Dest": "LIS",
         "AirlineCode": "TP"
     },
@@ -100239,6 +100263,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-15",
         "InterviewState": "Completed",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewEndDate": "2023-10-15",
+        "InterviewState": "Completed",
         "Dest": "MAD",
         "AirlineCode": "IB"
     },
@@ -100401,6 +100431,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-16",
         "InterviewState": "Completed",
+        "Dest": "MAD",
+        "AirlineCode": "I2"
+    },
+    {
+        "InterviewEndDate": "2023-10-16",
+        "InterviewState": "Completed",
         "Dest": "OSL",
         "AirlineCode": "SK"
     },
@@ -100455,8 +100491,20 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-17",
         "InterviewState": "Completed",
+        "Dest": "EWR",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Completed",
         "Dest": "IAD",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Completed",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
     },
     {
         "InterviewEndDate": "2023-10-17",
@@ -100563,6 +100611,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-17",
         "InterviewState": "Completed",
+        "Dest": "DUS",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Completed",
         "Dest": "VIE",
         "AirlineCode": "FR"
     },
@@ -100583,6 +100637,18 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Completed",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Completed",
+        "Dest": "BCN",
+        "AirlineCode": "D8"
     },
     {
         "InterviewEndDate": "2023-10-17",
@@ -100839,6 +100905,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-22",
         "InterviewState": "Completed",
+        "Dest": "MRS",
+        "AirlineCode": "V7"
+    },
+    {
+        "InterviewEndDate": "2023-10-22",
+        "InterviewState": "Completed",
         "Dest": "ORY",
         "AirlineCode": "VY"
     },
@@ -100921,10 +100993,22 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
         "InterviewEndDate": "2023-10-23",
         "InterviewState": "Completed",
         "Dest": "BRU",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
     },
     {
         "InterviewEndDate": "2023-10-25",
@@ -101001,6 +101085,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2023-10-25",
         "InterviewState": "Completed",
+        "Dest": "AGP",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
         "Dest": "DOH",
         "AirlineCode": "AY"
     },
@@ -101021,6 +101111,18 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "FRA",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "ET"
+    },
+    {
+        "InterviewEndDate": "2023-10-25",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "ET"
     }
 ]    
 
