@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "AMS",
         "AirlineCode": "KL",
         "completed_interviews": 3,
-        "download_time": "26-10-2023 07:24:51"
+        "download_time": "26-10-2023 07:33:25"
     },
     {
         "Interview_Date": "2023-05-28",
@@ -5210,6 +5210,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-08-16",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2023-08-16",
         "Dest": "AMS",
         "AirlineCode": "KL",
         "completed_interviews": 5
@@ -5302,7 +5308,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-08-16",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 8
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2023-08-16",
@@ -5648,6 +5654,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-08-23",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2023-08-23",
         "Dest": "ALC",
         "AirlineCode": "VY",
         "completed_interviews": 11
@@ -5776,7 +5788,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-08-23",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 15
+        "completed_interviews": 10
     },
     {
         "Interview_Date": "2023-08-23",
@@ -5888,6 +5900,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-08-26",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2023-08-26",
         "Dest": "DOH",
         "AirlineCode": "AY",
         "completed_interviews": 15
@@ -5926,7 +5944,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-08-26",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 8
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2023-08-27",
@@ -6023,6 +6041,12 @@ let interview_statistics = `[
         "Dest": "OTP",
         "AirlineCode": "W4",
         "completed_interviews": 14
+    },
+    {
+        "Interview_Date": "2023-08-30",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2023-08-30",
@@ -6160,7 +6184,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-08-30",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 9
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2023-08-30",
@@ -6338,6 +6362,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-09-04",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2023-09-04",
         "Dest": "AMS",
         "AirlineCode": "KL",
         "completed_interviews": 17
@@ -6430,7 +6460,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-09-04",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 4
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2023-09-04",
@@ -7304,6 +7334,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-09-13",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2023-09-13",
         "Dest": "ALC",
         "AirlineCode": "VY",
         "completed_interviews": 8
@@ -7366,7 +7402,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-09-13",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 6
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2023-09-13",
@@ -7478,6 +7514,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-09-15",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2023-09-15",
         "Dest": "ARN",
         "AirlineCode": "SK",
         "completed_interviews": 3
@@ -7570,7 +7612,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-09-15",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 13
+        "completed_interviews": 9
     },
     {
         "Interview_Date": "2023-09-16",
@@ -7709,6 +7751,12 @@ let interview_statistics = `[
         "Dest": "YYZ",
         "AirlineCode": "AC",
         "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2023-09-18",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2023-09-18",
@@ -7858,7 +7906,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-09-18",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 2
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2023-09-18",
@@ -7937,6 +7985,12 @@ let interview_statistics = `[
         "Dest": "AAL",
         "AirlineCode": "D8",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2023-09-20",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2023-09-20",
@@ -8032,7 +8086,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-09-20",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 7
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2023-09-20",
@@ -8186,6 +8240,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-09-23",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2023-09-23",
         "Dest": "MAD",
         "AirlineCode": "I2",
         "completed_interviews": 8
@@ -8194,7 +8254,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-09-23",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 7
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2023-09-24",
@@ -8276,6 +8336,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-09-27",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2023-09-27",
         "Dest": "AMS",
         "AirlineCode": "D8",
         "completed_interviews": 5
@@ -8350,7 +8416,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-09-27",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 12
+        "completed_interviews": 10
     },
     {
         "Interview_Date": "2023-09-28",
@@ -8972,6 +9038,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-10-09",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2023-10-09",
         "Dest": "ALC",
         "AirlineCode": "VY",
         "completed_interviews": 6
@@ -9029,12 +9101,6 @@ let interview_statistics = `[
         "Dest": "MUC",
         "AirlineCode": "LH",
         "completed_interviews": 16
-    },
-    {
-        "Interview_Date": "2023-10-09",
-        "Dest": "VIE",
-        "AirlineCode": "ET",
-        "completed_interviews": 3
     },
     {
         "Interview_Date": "2023-10-10",
@@ -9464,6 +9530,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-10-16",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2023-10-16",
         "Dest": "BRU",
         "AirlineCode": "SK",
         "completed_interviews": 5
@@ -9497,12 +9569,6 @@ let interview_statistics = `[
         "Dest": "OSL",
         "AirlineCode": "SK",
         "completed_interviews": 12
-    },
-    {
-        "Interview_Date": "2023-10-16",
-        "Dest": "VIE",
-        "AirlineCode": "ET",
-        "completed_interviews": 8
     },
     {
         "Interview_Date": "2023-10-16",
@@ -9590,6 +9656,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2023-10-18",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2023-10-18",
         "Dest": "DEL",
         "AirlineCode": "AI",
         "completed_interviews": 9
@@ -9604,7 +9676,7 @@ let interview_statistics = `[
         "Interview_Date": "2023-10-18",
         "Dest": "VIE",
         "AirlineCode": "ET",
-        "completed_interviews": 7
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2023-10-19",
