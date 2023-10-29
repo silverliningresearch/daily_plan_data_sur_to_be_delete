@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "29-10-2023 11:55:52"
+        "download_time": "29-10-2023 12:50:58"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -12700,15 +12700,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "c5121992-59d4-4e58-9f26-e34f3a299c31",
-        "InterviewEndDate": "2023-06-19 13:29:25",
-        "InterviewState": "Completed",
-        "Flight": "BT  492",
-        "Dest": "RIX",
-        "AirlineCode": "BT",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "0b3a9474-5f57-4fc4-a95f-cd7a92c9b370",
         "InterviewEndDate": "2023-06-20 06:14:54",
         "InterviewState": "Completed",
@@ -17983,6 +17974,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "256f0799-d461-4854-9717-ba824b15044e",
+        "InterviewEndDate": "2023-10-29 13:46:21",
+        "InterviewState": "Completed",
+        "Flight": "W6 2493",
+        "Dest": "TFS",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
         "InterviewEndDate": "2023-04-07 13:38:30",
         "InterviewState": "Completed",
@@ -19060,6 +19060,15 @@ let interview_data_raw = `[
         "Flight": "W6 2387",
         "Dest": "ALC",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "c5121992-59d4-4e58-9f26-e34f3a299c31",
+        "InterviewEndDate": "2023-06-19 13:29:25",
+        "InterviewState": "Completed",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT",
         "InterviewerID": 7
     },
     {
