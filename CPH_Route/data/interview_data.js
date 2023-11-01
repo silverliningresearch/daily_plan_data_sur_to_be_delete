@@ -4,7 +4,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "01-11-2023 17:54:05"
+        "download_time": "01-11-2023 18:48:55"
     },
     {
         "InterviewEndDate": "2023-05-27",
