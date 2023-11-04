@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "04-11-2023 11:51:02"
+        "download_time": "04-11-2023 12:45:53"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -15562,15 +15562,6 @@ let interview_data_raw = `[
         "InterviewerID": 15
     },
     {
-        "InterviewId": "abaf4524-0fe1-42db-b308-d7494ca8a0c6",
-        "InterviewEndDate": "2023-09-19 19:19:22",
-        "InterviewState": "Completed",
-        "Flight": "W6 2217",
-        "Dest": "BHX",
-        "AirlineCode": "W6",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "9361fe1b-72c5-40f1-bbc4-cd76cec4e0d2",
         "InterviewEndDate": "2023-09-19 19:20:17",
         "InterviewState": "Completed",
@@ -17980,6 +17971,15 @@ let interview_data_raw = `[
         "Flight": "W6 2373",
         "Dest": "AMM",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "5e06c692-6587-4ef3-a7c1-9b055e3ca351",
+        "InterviewEndDate": "2023-11-04 13:05:14",
+        "InterviewState": "Completed",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR",
         "InterviewerID": 7
     },
     {
@@ -20710,6 +20710,15 @@ let interview_data_raw = `[
         "InterviewerID": 15
     },
     {
+        "InterviewId": "abaf4524-0fe1-42db-b308-d7494ca8a0c6",
+        "InterviewEndDate": "2023-09-19 19:19:22",
+        "InterviewState": "Completed",
+        "Flight": "W6 2217",
+        "Dest": "BHX",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "58cde754-3c84-427e-a78e-ee3e914c37c9",
         "InterviewEndDate": "2023-09-22 09:12:43",
         "InterviewState": "Completed",
@@ -21616,6 +21625,15 @@ let interview_data_raw = `[
         "Flight": "EZS1212",
         "Dest": "BSL",
         "AirlineCode": "EC",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "7d4838e1-308e-4e7b-af6c-dcce327a3f77",
+        "InterviewEndDate": "2023-11-04 13:00:47",
+        "InterviewState": "Completed",
+        "Flight": "FR 3165",
+        "Dest": "BGY",
+        "AirlineCode": "FR",
         "InterviewerID": 7
     }
 ]    
