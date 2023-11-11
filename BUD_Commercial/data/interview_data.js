@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "11-11-2023 15:15:53"
+        "download_time": "11-11-2023 16:10:55"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -17938,15 +17938,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "bfec7fad-ffea-44da-b657-d2c702973c31",
-        "InterviewEndDate": "2023-11-09 19:32:37",
-        "InterviewState": "Completed",
-        "Flight": "AY 1256",
-        "Dest": "HEL",
-        "AirlineCode": "AY",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "61b6e5a2-7bbd-46ad-9f6b-d0b69a3528e0",
         "InterviewEndDate": "2023-11-09 21:58:45",
         "InterviewState": "Completed",
@@ -17979,6 +17970,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 5248",
         "Dest": "CAG",
+        "AirlineCode": "FR",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "0f363c7b-bcdd-48a2-9026-bdd725e28573",
+        "InterviewEndDate": "2023-11-11 17:10:15",
+        "InterviewState": "Completed",
+        "Flight": "FR  054",
+        "Dest": "CRL",
         "AirlineCode": "FR",
         "InterviewerID": 9
     },
@@ -22105,6 +22105,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "bfec7fad-ffea-44da-b657-d2c702973c31",
+        "InterviewEndDate": "2023-11-09 19:32:37",
+        "InterviewState": "Completed",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "112b3cc9-6152-497d-8550-e4c4a88a4a6d",
         "InterviewEndDate": "2023-11-11 10:31:52",
         "InterviewState": "Completed",
@@ -22120,6 +22129,15 @@ let interview_data_raw = `[
         "Flight": "PC  334",
         "Dest": "SAW",
         "AirlineCode": "PC",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "17d6523e-a060-4be5-bbca-f94a4ee99543",
+        "InterviewEndDate": "2023-11-11 17:09:09",
+        "InterviewState": "Completed",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR",
         "InterviewerID": 9
     }
 ]    
