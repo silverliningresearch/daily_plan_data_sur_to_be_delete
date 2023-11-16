@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "16-11-2023 10:45:49"
+        "download_time": "16-11-2023 11:40:50"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -13096,15 +13096,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "d60f97cf-b97f-490a-9a03-d0df28428d48",
-        "InterviewEndDate": "2023-07-12 16:35:44",
-        "InterviewState": "Completed",
-        "Flight": "FR 4144",
-        "Dest": "PRG",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "e0895441-8250-4e43-8d98-c896bcd52da9",
         "InterviewEndDate": "2023-07-13 12:40:02",
         "InterviewState": "Completed",
@@ -17983,6 +17974,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "1bed1513-a0b3-49c1-b7d5-a04dd7c57ac5",
+        "InterviewEndDate": "2023-11-16 12:28:37",
+        "InterviewState": "Completed",
+        "Flight": "FR 4309",
+        "Dest": "ACE",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
         "InterviewEndDate": "2023-04-07 13:38:30",
         "InterviewState": "Completed",
@@ -20031,6 +20031,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 6521",
         "Dest": "ZAD",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d60f97cf-b97f-490a-9a03-d0df28428d48",
+        "InterviewEndDate": "2023-07-12 16:35:44",
+        "InterviewState": "Completed",
+        "Flight": "FR 4144",
+        "Dest": "PRG",
         "AirlineCode": "FR",
         "InterviewerID": 1
     },
@@ -22380,6 +22389,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 8200",
         "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "16f632ce-5f4d-4eae-9c57-eaa0adfb3d06",
+        "InterviewEndDate": "2023-11-16 12:18:38",
+        "InterviewState": "Completed",
+        "Flight": "FR 4309",
+        "Dest": "ACE",
         "AirlineCode": "FR",
         "InterviewerID": 16
     }
