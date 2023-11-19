@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "19-11-2023 09:20:52"
+        "download_time": "19-11-2023 10:15:48"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -8983,6 +8983,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "4ce753ad-00ac-4fef-a72e-57149be8b881",
+        "InterviewEndDate": "2023-11-19 10:28:56",
+        "InterviewState": "Completed",
+        "Flight": "FR 4134",
+        "Dest": "BRS",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "e3900194-1c5c-4888-840a-b4e9f8d28f69",
         "InterviewEndDate": "2023-09-30 21:02:21",
         "InterviewState": "Completed",
@@ -12777,15 +12786,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "W6 2431",
         "Dest": "AYT",
-        "AirlineCode": "W6",
-        "InterviewerID": 9
-    },
-    {
-        "InterviewId": "afa926a4-4d44-4355-9ffd-cec42aa3208a",
-        "InterviewEndDate": "2023-07-06 11:54:17",
-        "InterviewState": "Completed",
-        "Flight": "W6 2367",
-        "Dest": "ORY",
         "AirlineCode": "W6",
         "InterviewerID": 9
     },
@@ -20044,6 +20044,15 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "afa926a4-4d44-4355-9ffd-cec42aa3208a",
+        "InterviewEndDate": "2023-07-06 11:54:17",
+        "InterviewState": "Completed",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6",
+        "InterviewerID": 9
+    },
+    {
         "InterviewId": "518f7988-8865-42e3-a0e5-edcbc210da69",
         "InterviewEndDate": "2023-07-06 14:07:26",
         "InterviewState": "Completed",
@@ -22715,6 +22724,15 @@ let interview_data_raw = `[
         "Dest": "AMS",
         "AirlineCode": "KL",
         "InterviewerID": 9
+    },
+    {
+        "InterviewId": "d248bc7d-1ec4-41c0-96b5-e0e62af97996",
+        "InterviewEndDate": "2023-11-19 10:28:21",
+        "InterviewState": "Completed",
+        "Flight": "FR 4134",
+        "Dest": "BRS",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
     }
 ]    
 
