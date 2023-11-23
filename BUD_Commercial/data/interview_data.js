@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "23-11-2023 12:21:01"
+        "download_time": "23-11-2023 13:15:54"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -12682,15 +12682,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "94fb02ba-35c4-4c4b-b152-cb6772e5e1d3",
-        "InterviewEndDate": "2023-07-05 12:44:38",
-        "InterviewState": "Completed",
-        "Flight": "W6 2495",
-        "Dest": "MLA",
-        "AirlineCode": "W6",
-        "InterviewerID": 9
-    },
-    {
         "InterviewId": "7e7265ba-988d-48e9-b47c-caefea473053",
         "InterviewEndDate": "2023-07-05 12:53:08",
         "InterviewState": "Completed",
@@ -17974,6 +17965,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "6fc5dafb-a0dc-491a-8eaf-99ac6c2a3656",
+        "InterviewEndDate": "2023-11-23 14:10:48",
+        "InterviewState": "Completed",
+        "Flight": "W6 2397",
+        "Dest": "FNC",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
         "InterviewEndDate": "2023-04-07 13:38:30",
         "InterviewState": "Completed",
@@ -20145,6 +20145,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "7c6eabfb-6d8b-4d4b-ae56-f53fda60c1f2",
         "InterviewEndDate": "2023-07-05 12:44:39",
+        "InterviewState": "Completed",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "94fb02ba-35c4-4c4b-b152-cb6772e5e1d3",
+        "InterviewEndDate": "2023-07-05 12:44:38",
         "InterviewState": "Completed",
         "Flight": "W6 2495",
         "Dest": "MLA",
@@ -23164,6 +23173,24 @@ let interview_data_raw = `[
         "Flight": "AF 1395",
         "Dest": "CDG",
         "AirlineCode": "AF",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "6db6ddbb-5b4f-4b51-b879-fb123f60c49b",
+        "InterviewEndDate": "2023-11-23 13:51:54",
+        "InterviewState": "Completed",
+        "Flight": "W6 2397",
+        "Dest": "FNC",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "d5a27514-9e19-4d80-8990-db1ef4d8a4e1",
+        "InterviewEndDate": "2023-11-23 13:55:14",
+        "InterviewState": "Completed",
+        "Flight": "W6 2397",
+        "Dest": "FNC",
+        "AirlineCode": "W6",
         "InterviewerID": 16
     }
 ]    
