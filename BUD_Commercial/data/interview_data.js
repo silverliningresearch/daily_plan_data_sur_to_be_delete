@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "02-12-2023 12:40:55"
+        "download_time": "02-12-2023 13:36:01"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -16192,15 +16192,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "db0207ca-af12-4e2b-a59c-bf6604ea4d2a",
-        "InterviewEndDate": "2023-10-25 12:43:49",
-        "InterviewState": "Completed",
-        "Flight": "W6 2357",
-        "Dest": "DXB",
-        "AirlineCode": "W6",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "19448095-8dea-4a54-835e-6f16c2b7dd4b",
         "InterviewEndDate": "2023-10-25 13:10:34",
         "InterviewState": "Completed",
@@ -17970,6 +17961,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 9566",
         "Dest": "BFS",
+        "AirlineCode": "FR",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "db09f1e1-29be-4bed-b0af-8b6e8ba28b41",
+        "InterviewEndDate": "2023-12-02 14:24:01",
+        "InterviewState": "Completed",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
         "AirlineCode": "FR",
         "InterviewerID": 9
     },
@@ -23266,6 +23266,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "db0207ca-af12-4e2b-a59c-bf6604ea4d2a",
+        "InterviewEndDate": "2023-10-25 12:43:49",
+        "InterviewState": "Completed",
+        "Flight": "W6 2357",
+        "Dest": "DXB",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "9692f324-d0cf-44ed-8a63-f1beca2a512f",
         "InterviewEndDate": "2023-10-25 15:08:06",
         "InterviewState": "Completed",
@@ -24425,6 +24434,15 @@ let interview_data_raw = `[
         "Dest": "STR",
         "AirlineCode": "EW",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "fa3ccc82-7784-4f4b-a25e-d9df902fd49c",
+        "InterviewEndDate": "2023-12-02 14:14:28",
+        "InterviewState": "Completed",
+        "Flight": "FR 5023",
+        "Dest": "PSA",
+        "AirlineCode": "FR",
+        "InterviewerID": 9
     }
 ]    
 
