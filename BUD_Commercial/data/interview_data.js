@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "05-12-2023 14:55:55"
+        "download_time": "05-12-2023 15:51:00"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -9316,15 +9316,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "3426139b-1d2c-4733-b28e-bc0c849c8c86",
-        "InterviewEndDate": "2023-04-18 11:57:20",
-        "InterviewState": "Completed",
-        "Flight": "KL 1974",
-        "Dest": "AMS",
-        "AirlineCode": "KL",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "42b47e37-94eb-498e-a5cc-88fc4201c194",
         "InterviewEndDate": "2023-04-18 11:57:03",
         "InterviewState": "Completed",
@@ -17974,6 +17965,15 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "78ceefd3-4b83-4df7-a571-a864a49d90a1",
+        "InterviewEndDate": "2023-12-05 16:12:37",
+        "InterviewState": "Completed",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6",
+        "InterviewerID": 9
+    },
+    {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
         "InterviewEndDate": "2023-04-07 13:38:30",
         "InterviewState": "Completed",
@@ -18224,6 +18224,15 @@ let interview_data_raw = `[
         "Dest": "HRG",
         "AirlineCode": "W6",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "3426139b-1d2c-4733-b28e-bc0c849c8c86",
+        "InterviewEndDate": "2023-04-18 11:57:20",
+        "InterviewState": "Completed",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "InterviewerID": 1
     },
     {
         "InterviewId": "fd5e6fed-fe6d-4a80-bcf9-f6c5a4eb00c1",
@@ -24865,6 +24874,15 @@ let interview_data_raw = `[
         "Flight": "BA  869",
         "Dest": "LHR",
         "AirlineCode": "BA",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "17d46e1a-89dc-4b29-b7ce-e10df62609a8",
+        "InterviewEndDate": "2023-12-05 16:13:35",
+        "InterviewState": "Completed",
+        "Flight": "W6 2371",
+        "Dest": "MAD",
+        "AirlineCode": "W6",
         "InterviewerID": 9
     }
 ]    
