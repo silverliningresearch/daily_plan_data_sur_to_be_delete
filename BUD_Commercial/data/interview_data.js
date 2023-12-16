@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "16-12-2023 14:55:56"
+        "download_time": "16-12-2023 15:51:01"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -10297,15 +10297,6 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
-        "InterviewId": "ac137269-f6bd-4552-9799-b75c7529e091",
-        "InterviewEndDate": "2023-05-15 19:22:38",
-        "InterviewState": "Completed",
-        "Flight": "AY 1256",
-        "Dest": "HEL",
-        "AirlineCode": "AY",
-        "InterviewerID": 10
-    },
-    {
         "InterviewId": "f982c18b-b286-4b82-a077-5e6237da3040",
         "InterviewEndDate": "2023-05-15 20:19:06",
         "InterviewState": "Completed",
@@ -17974,6 +17965,15 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "4e05361f-551c-44fb-8835-6c8289f0195e",
+        "InterviewEndDate": "2023-12-16 16:47:19",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "InterviewerID": 9
+    },
+    {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
         "InterviewEndDate": "2023-04-07 13:38:30",
         "InterviewState": "Completed",
@@ -19137,6 +19137,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "43b72c62-eee3-4c66-83e4-d3de8cbb6713",
         "InterviewEndDate": "2023-05-15 19:13:26",
+        "InterviewState": "Completed",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "InterviewerID": 10
+    },
+    {
+        "InterviewId": "ac137269-f6bd-4552-9799-b75c7529e091",
+        "InterviewEndDate": "2023-05-15 19:22:38",
         "InterviewState": "Completed",
         "Flight": "AY 1256",
         "Dest": "HEL",
@@ -25612,6 +25621,15 @@ let interview_data_raw = `[
         "Flight": "JU  153",
         "Dest": "BEG",
         "AirlineCode": "JU",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "abcfdeee-69dc-490d-a9f4-c003d1401bdc",
+        "InterviewEndDate": "2023-12-16 16:50:28",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
         "InterviewerID": 9
     }
 ]    
