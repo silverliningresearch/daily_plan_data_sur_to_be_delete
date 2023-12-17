@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "17-12-2023 12:00:55"
+        "download_time": "17-12-2023 12:55:49"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -13087,15 +13087,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "d94cf0b9-8240-47d1-ad58-b730efad7245",
-        "InterviewEndDate": "2023-07-24 14:50:23",
-        "InterviewState": "Completed",
-        "Flight": "FR  839",
-        "Dest": "TLV",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "212333e3-9d14-4118-a354-7c82b7cb83ef",
         "InterviewEndDate": "2023-07-27 14:02:04",
         "InterviewState": "Completed",
@@ -17974,6 +17965,15 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "1902346b-b235-4ec6-a788-a14697333f64",
+        "InterviewEndDate": "2023-12-17 13:03:41",
+        "InterviewState": "Completed",
+        "Flight": "KL 1976",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
         "InterviewEndDate": "2023-04-07 13:38:30",
         "InterviewState": "Completed",
@@ -21445,6 +21445,15 @@ let interview_data_raw = `[
         "Flight": "LH 1337",
         "Dest": "FRA",
         "AirlineCode": "LH",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d94cf0b9-8240-47d1-ad58-b730efad7245",
+        "InterviewEndDate": "2023-07-24 14:50:23",
+        "InterviewState": "Completed",
+        "Flight": "FR  839",
+        "Dest": "TLV",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     },
     {
@@ -25649,6 +25658,15 @@ let interview_data_raw = `[
         "Dest": "DUB",
         "AirlineCode": "FR",
         "InterviewerID": 9
+    },
+    {
+        "InterviewId": "c7225e2c-6546-4cd7-9752-e8d3c103e5d7",
+        "InterviewEndDate": "2023-12-17 13:04:31",
+        "InterviewState": "Completed",
+        "Flight": "KL 1976",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "InterviewerID": 16
     }
 ]    
 
